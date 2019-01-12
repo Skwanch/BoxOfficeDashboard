@@ -1,7 +1,6 @@
-# Box Office Dashboard -- Kevin
-
-Name: Kevin Wang
-Pitt ID: 4114630
+# Box Office Dashboard
+Written by Kevin Wang for CS1520 (Web Applications), Fall 2018  
+Simple Box Office website demonstrating concepts such as Javascript map-reduce-filter and Python basic auth
 
 ## Installation
 
